@@ -1,0 +1,94 @@
+{
+  "livros": [
+    {
+      "titulo": "Clean Code: A Handbook of Agile Software Craftsmanship",
+      "autor": "Robert C. Martin",
+      "area": "Boas Práticas de Programação",
+      "imagem": "https://covers.openlibrary.org/b/isbn/9780132350884-L.jpg",
+      "editora": "Prentice Hall",
+      "ano_publicacao": 2008,
+      "isbn": "9780132350884"
+    },
+    {
+      "titulo": "The Pragmatic Programmer: Your Journey to Mastery",
+      "autor": "Andrew Hunt, David Thomas",
+      "area": "Boas Práticas de Programação",
+      "imagem": "https://covers.openlibrary.org/b/isbn/9780201616224-L.jpg",
+      "editora": "Addison-Wesley",
+      "ano_publicacao": 1999,
+      "isbn": "9780201616224"
+    },
+    {
+      "titulo": "Design Patterns: Elements of Reusable Object-Oriented Software",
+      "autor": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",
+      "area": "Padrões de Projeto",
+      "imagem": "https://covers.openlibrary.org/b/isbn/9780201633610-L.jpg",
+      "editora": "Addison-Wesley",
+      "ano_publicacao": 1994,
+      "isbn": "9780201633610"
+    },
+    {
+      "titulo": "Introduction to Algorithms",
+      "autor": "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein",
+      "area": "Algoritmos e Estruturas de Dados",
+      "imagem": "https://covers.openlibrary.org/b/isbn/9780262033848-L.jpg",
+      "editora": "MIT Press",
+      "ano_publicacao": 2009,
+      "isbn": "9780262033848"
+    },
+    {
+      "titulo": "Code Complete: A Practical Handbook of Software Construction",
+      "autor": "Steve McConnell",
+      "area": "Engenharia de Software",
+      "imagem": "https://covers.openlibrary.org/b/isbn/9780735619678-L.jpg",
+      "editora": "Microsoft Press",
+      "ano_publicacao": 2004,
+      "isbn": "9780735619678"
+    },
+    {
+      "titulo": "Refactoring: Improving the Design of Existing Code",
+      "autor": "Martin Fowler",
+      "area": "Boas Práticas de Programação",
+      "imagem": "https://covers.openlibrary.org/b/isbn/9780134757599-L.jpg",
+      "editora": "Addison-Wesley",
+      "ano_publicacao": 2018,
+      "isbn": "9780134757599"
+    },
+    {
+      "titulo": "You Don't Know JS: Up & Going",
+      "autor": "Kyle Simpson",
+      "area": "JavaScript",
+      "imagem": "https://covers.openlibrary.org/b/isbn/9781491924464-L.jpg",
+      "editora": "O'Reilly Media",
+      "ano_publicacao": 2015,
+      "isbn": "9781491924464"
+    },
+    {
+      "titulo": "Effective Java",
+      "autor": "Joshua Bloch",
+      "area": "Java",
+      "imagem": "https://covers.openlibrary.org/b/isbn/9780134685991-L.jpg",
+      "editora": "Addison-Wesley",
+      "ano_publicacao": 2017,
+      "isbn": "9780134685991"
+    },
+    {
+      "titulo": "Head First Design Patterns",
+      "autor": "Eric Freeman, Elisabeth Robson",
+      "area": "Padrões de Projeto",
+      "imagem": "https://covers.openlibrary.org/b/isbn/9780596007126-L.jpg",
+      "editora": "O'Reilly Media",
+      "ano_publicacao": 2004,
+      "isbn": "9780596007126"
+    },
+    {
+      "titulo": "Cracking the Coding Interview",
+      "autor": "Gayle Laakmann McDowell",
+      "area": "Entrevistas Técnicas / Algoritmos",
+      "imagem": "https://covers.openlibrary.org/b/isbn/9780984782857-L.jpg",
+      "editora": "CareerCup",
+      "ano_publicacao": 2015,
+      "isbn": "9780984782857"
+    }
+  ]
+}
