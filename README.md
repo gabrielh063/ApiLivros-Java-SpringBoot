@@ -26,6 +26,7 @@ Este projeto foi desenvolvido com foco no aprendizado de:
 - **OpenFeign**
 - **JSON**
 - **REST API**
+- **POSTMAN**
 
 ## 📂 Estrutura do projeto
 
